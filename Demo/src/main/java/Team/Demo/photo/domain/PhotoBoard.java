@@ -12,6 +12,15 @@ public class PhotoBoard {
     private String date;
     private String photo1;
     private String photo2;
-    private 
+    private String Photo3;
+    private String photo4;
+    private String petName;
+    private int age;
+    private String kind;
+    private String sex;
+    private String inoculation;
+    private int price;
+    private String text;
+
 
 }
