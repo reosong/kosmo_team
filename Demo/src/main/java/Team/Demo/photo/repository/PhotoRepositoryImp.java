@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 public class PhotoRepositoryImp implements PhotoRepository{
 
     public void showBoard() {
-        
+
     }
 
 
