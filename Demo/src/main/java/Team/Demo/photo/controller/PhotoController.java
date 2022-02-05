@@ -27,6 +27,14 @@ public class PhotoController {
 
     }
 
+    @GetMapping("/a")
+    public ModelAndView a() {
+        ModelAndView mv = new ModelAndView();
+        mv.setViewName("jsp파일경로");
+        String a =서비스클래스이름.메소드();
+        mv.addObject(a);//값을 넘겨줘야할때
+    return  mv;
+    }
 
 
 
