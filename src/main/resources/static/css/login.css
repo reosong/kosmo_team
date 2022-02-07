@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.wrap {
+    height: 100%;
+    width: 100%;
+    background-image: url(img/background.jpg);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+.form-wrap {
+    width: 380px;
+    height: 480px;
+    position: relative;
+    margin: 6% auto;
+    background: #fff;
+    padding: 5px;
+    overflow: hidden;
+}
+.button-wrap {
+    width: 230px;
+    margin: 35px auto;
+    position: relative;
+    box-shadow: 0 …

@@ -1,0 +1,23 @@
+
+.section1{
+    width: 90%;
+    width: 150vh;
+    margin-top: 5%;
+
+}
+
+.pho1{
+    width: 100%;
+    width: 100%;
+
+
+}
+.pho2{
+    width: 100%;
+    height: 30%;
+    list-style: none;
+}
+.pho3{
+    list-style: none;
+    display: inline-block;
+}
